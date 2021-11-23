@@ -1,0 +1,71 @@
+Teste Backend Grão
+Instruções gerais
+Olá,
+
+
+
+Preparamos um teste para você, para melhor execução, busque um ambiente calmo e uma conexão de internet estável. Caso ocorra algum imprevisto, entre em contato conosco.
+
+
+
+Leia com bastante atenção as instruções abaixo para o seu teste:
+
+
+
+João está começando a investir e semanalmente, ele vai investir com a Grão R$ 100,00 e queremos mostrar para João quanto ele terá poupado e quanto o seu dinheiro terá rendido daqui 36 semanas. 
+
+Para isso temos algumas regras:
+
+ - Consideramos que a Taxa Selic seja de 4,25% ao ano
+
+ - Pagamos 100% da Taxa Selic
+
+ - Que o ano tem 252 dias úteis
+
+ - Só rentabilizamos dias úteis (não se preocupe com feriados)
+
+ - Desconsiderar Impostos sobre os investimentos
+
+
+
+
+
+
+A fórmula para o cálculo da rentabilidade é ```M = P . (1 + i) ^ t/252```
+
+
+
+## Tecnologia
+
+Pode utilizar qualquer linguagem de programação, porém, temos preferência pelas seguintes:
+
+ * Kotlin
+
+ * Java
+
+ * Python
+
+ * NodeJS
+
+
+
+## Diferenciais 
+
+ * Teste de unidade
+
+ * Docker
+
+ * Documentação
+
+
+
+## Requisitos 
+
+* README passo-a-passo para execução
+
+* Prazo de 1 a 2 dias corridos.
+
+* Entregar um repositório público (Github, Gitlab ou Bitbucket)
+
+Ao clicar em iniciar teste você poderá entrega-lo por meio de link, textos, arquivos, como preferir. Verifique que todos possam ter acesso ao resultado do seu teste. Boa sorte!
+
